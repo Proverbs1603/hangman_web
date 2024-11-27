@@ -1,5 +1,6 @@
 # CI/CD Workflow with GitHub Actions, Docker, and Production Deployment
-![image](https://github.com/user-attachments/assets/79178fae-8b30-4465-9117-06c10f5b2219)
+![docker_CI_ID (1)](https://github.com/user-attachments/assets/4b1c659a-5120-4e13-acf4-ba92d250e2a9)
+
 
 This repository demonstrates a complete **CI/CD pipeline** using the following workflow:
 1. **Code Push to GitHub**: Developers push code to the repository.
